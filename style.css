@@ -240,7 +240,7 @@ span {
     #one > div > h2 {
         font-size: 2rem;
         padding-left: 12%;
-        padding-right: 25px;
+        /* padding-right: 25px; */
         font-weight: 600;
         line-height: 25px;
         letter-spacing: -.5px;
@@ -250,12 +250,13 @@ span {
         font-size: 2.3rem;
         letter-spacing: -1px;
         padding-top: 100px;
-        padding-bottom: 70px;   
+        padding-bottom: 70px;
+        padding-left: 15%;   
      }
 
     #two > div > h2 {
         font-size: 1.8rem;
-        padding-left: 20%;
+        padding-left: 15%;
         font-weight: 600;
         line-height: 25px;
         letter-spacing: -.5px;
@@ -264,7 +265,7 @@ span {
     
     #three > div > h1 {
         font-size: 2.3rem;
-        padding-top: 160px;
+        padding-top: 130px;
         letter-spacing: -1px;
         padding-left: 50px;
         padding-bottom: 70px;
@@ -287,6 +288,7 @@ span {
         padding-top: 100px;
         padding-bottom: 70px;
         padding-left: 15%;
+        padding-right: 15%;
     }  
     
     #four > div > h2 {
