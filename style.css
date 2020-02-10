@@ -204,7 +204,7 @@ span {
     }
 
     #title {
-        font-size: 2.5rem;
+        font-size: 2rem;
     }
 
     .showcase > div > h1 { 
@@ -223,7 +223,7 @@ span {
     }
 
     #one > div > h1 {
-        font-size: 2rem;
+        font-size: 1rem;
         letter-spacing: -1px;
     }
 
@@ -250,6 +250,8 @@ span {
     #three > div > h2 {
        font-size: 1rem;
        padding-left: 35px;
+       line-height: 10px;
+
 
     }
     
@@ -259,7 +261,7 @@ span {
     }  
     
     #four > div > h2 {
-        
+        line-height: 15px;
     }
 }
 
