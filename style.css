@@ -240,7 +240,7 @@ span {
     #one > div > h2 {
         font-size: 2rem;
         padding-left: 12%;
-        /* padding-right: 25px; */
+        padding-right: 40px;
         font-weight: 600;
         line-height: 25px;
         letter-spacing: -.5px;
@@ -265,7 +265,7 @@ span {
     
     #three > div > h1 {
         font-size: 2.3rem;
-        padding-top: 130px;
+        padding-top: 120px;
         letter-spacing: -1px;
         padding-left: 50px;
         padding-bottom: 70px;
