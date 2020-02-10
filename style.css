@@ -224,6 +224,7 @@ span {
 
     #one > div > h1 {
         font-size: 2rem;
+        letter-spacing: -1px;
     }
 
     #one > div > h2 {
@@ -232,6 +233,7 @@ span {
     
     #two > div > h1 {
         font-size: 2rem;
+        letter-spacing: -1px;
     }
 
     #two > div > h2 {
@@ -242,6 +244,7 @@ span {
     #three > div > h1 {
         font-size: 2rem;
         padding-top: 40px;
+        letter-spacing: -1px;
     }
 
     #three > div > h2 {
