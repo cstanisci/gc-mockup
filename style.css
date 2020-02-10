@@ -234,13 +234,16 @@ span {
         letter-spacing: -2px;
         padding-top: 100px;
         padding-bottom: 60px;
+        padding-left: 12%;
     }
 
     #one > div > h2 {
         font-size: 2rem;
         padding-left: 15%;
+        padding-right: 15px;
         font-weight: 500;
         line-height: 25px;
+        letter-spacing: -.5px;
     }
     
     #two > div > h1 {
@@ -252,24 +255,26 @@ span {
 
     #two > div > h2 {
         font-size: 1.5rem;
-        padding-right: 10px;
+        padding-left: 20%;
         font-weight: 500;
         line-height: 25px;
+        letter-spacing: -.5px;
     }
     
     
     #three > div > h1 {
         font-size: 2rem;
-        padding-top: 150px;
+        padding-top: 160px;
         letter-spacing: -1px;
+        padding-left: 50px;
     }
 
     #three > div > h2 {
        font-size: 1.5rem;
-       padding-top: 60px;
+       padding-top: 70px;
        padding-left: 50px;
        line-height: 25px;
-       letter-spacing: -1px;
+       letter-spacing: -.5px;
        font-weight: 500;
 
     }
@@ -281,13 +286,15 @@ span {
         line-height: 25px;
         padding-top: 100px;
         padding-bottom: 50px;
+        padding-left: 15%;
     }  
     
     #four > div > h2 {
         line-height: 25px;
         font-size: 1.5rem;
         font-weight: 500;
-
+        letter-spacing: -.5px;
+        padding-left: 20%;
     }
 }
 
