@@ -205,8 +205,8 @@ span {
 
     #title {
         font-size: 2.5rem;
-        padding-top: 20px;
-        letter-spacing: -1.5px;
+        padding-top: 10px;
+        letter-spacing: -2px;
     }
 
     .showcase > div > h1 { 
@@ -226,41 +226,47 @@ span {
 
     #one > div > h1 {
         font-size: 3rem;
-        letter-spacing: -1.5px;
-        padding-top: 40px;
-        padding-bottom: 40px;
+        letter-spacing: -2px;
+        padding-top: 100px;
+        padding-bottom: 60px;
     }
 
     #one > div > h2 {
         font-size: 2rem;
-        padding-left: 30%;
+        padding-left: 15%;
+        font-weight: 500;
+        line-height: 25px;
     }
     
     #two > div > h1 {
         font-size: 2rem;
         letter-spacing: -1px;
-        padding-top: 60px;
+        padding-top: 100px;
         padding-bottom: 60px;
     }
 
     #two > div > h2 {
         font-size: 1.5rem;
         padding-right: 10px;
+        font-weight: 500;
+        line-height: 25px;
     }
     
     
     #three > div > h1 {
         font-size: 2rem;
-        padding-top: 100px;
+        padding-top: 150px;
         letter-spacing: -1px;
     }
 
     #three > div > h2 {
        font-size: 1.5rem;
-       padding-top: 30px;
+       padding-top: 60px;
        padding-left: 50px;
-       line-height: 20px;
+       line-height: 25px;
        letter-spacing: -1px;
+       font-weight: 500;
+
     }
     
     
@@ -273,8 +279,10 @@ span {
     }  
     
     #four > div > h2 {
-        line-height: 15px;
+        line-height: 25px;
         font-size: 1.5rem;
+        font-weight: 500;
+
     }
 }
 
