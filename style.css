@@ -147,6 +147,11 @@ nav {
     padding-top: 10%;
 }
 
+#two > div > h2 {
+    text-align: left;
+    padding-left: 50%;
+}
+
 #three >  {
     width: 50%;
 }
@@ -158,7 +163,7 @@ nav {
 }
 #three > div > h2 {
     text-align: left;
-    padding-left: 18%;
+    padding-left: 15%;
 }
 
 
