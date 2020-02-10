@@ -72,7 +72,7 @@ nav {
 }
 
 #one {
-    background: url("./GC-Images/AdobeStock_125898822.jpeg") no-repeat center center fixed; 
+    background: url("./GC-Images/sunset_large.jpeg") no-repeat center center fixed; 
     background-size: cover;
     height: 100vh;
     width: 100%;
@@ -80,47 +80,25 @@ nav {
 }
 
 #two {
-    background: url("./GC-Images/AdobeStock_164198278.jpeg") no-repeat center center fixed; 
+    background: url("./GC-Images/globe_large.jpeg") no-repeat center center fixed; 
     background-size: cover;
     height: 100vh;
     width: 100%;
 }
 
 #three {
-    background: url("./GC-Images/AdobeStock_244866522.jpeg") no-repeat center center fixed; 
+    background: url("./GC-Images/light_large.jpeg") no-repeat center center fixed; 
     background-size: cover;
     height: 100vh;
     width: 100%;
 }
 
 #four {
-    background: url("./GC-Images/AdobeStock_314971963.jpeg") no-repeat center center fixed; 
+    background: url("./GC-Images/city_large.jpeg") no-repeat center center fixed; 
     background-size: cover;
     height: 100vh;
     width: 100%;
 }
-
-#five {
-    background: url("./GC-Images/data2.png") no-repeat center center fixed; 
-    background-size: 100% 100%;
-    height: 100vh;
-    width: 100%;
-}
-
-#six {
-    background: url("") no-repeat center center fixed; 
-    background-size: auto auto;
-    height: 100vh;
-    width: 100%;
-}
-
-/* .showcase {
-    background-color: var(--primary-color);
-    color: white;
-    position: relative;
-    flex: 0 0 100%;
-    box-sizing: border-box;
-} */
 
 .showcase:before {
     content:'';
@@ -220,24 +198,21 @@ span {
 }
 }
 
-@media (max-width: 600px) {
+@media (max-width: 700px) {
     html {
         font-size: 12px;
     }
 
     #title {
-        font-size: 3rem;
+        font-size: 2.5rem;
     }
 
     .showcase > div > h1 { 
         font-size: 2rem;
-        width: 95%;
-        margin: 0 auto;
-        padding: 0;
     }
 
     .showcase > div > h2 {
-        font-size: 1rem;
+        font-size: 1.5rem;
         padding: 0;
     }
 
@@ -245,6 +220,43 @@ span {
         width: 100%;
         height: 100vh;
         position: relative;
+    }
+
+    #one > div > h1 {
+        font-size: 2rem;
+    }
+
+    #one > div > h2 {
+        font-size: 1rem;
+    }
+    
+    #two > div > h1 {
+        font-size: 2rem;
+    }
+
+    #two > div > h2 {
+        font-size: 2rem;
+    }
+    
+    
+    #three > div > h1 {
+        font-size: 2rem;
+        padding-top: 40px;
+    }
+
+    #three > div > h2 {
+       font-size: 1rem;
+       padding-left: 35px;
+
+    }
+    
+    
+    #four > div > h1 {
+        font-size: 2rem;
+    }  
+    
+    #four > div > h2 {
+        
     }
 }
 
