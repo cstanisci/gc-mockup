@@ -229,14 +229,14 @@ span {
         font-size: 3rem;
     }
 
-    h1 { 
+    .showcase > div > h1 { 
         font-size: 2rem;
         width: 95%;
         margin: 0 auto;
         padding: 0;
     }
 
-    h2 {
+    .showcase > div > h2 {
         font-size: 1rem;
         padding: 0;
     }
